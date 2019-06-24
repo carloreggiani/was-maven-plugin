@@ -38,7 +38,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.version>3.0.4</maven.version>
+		<maven.version>3.6.1</maven.version>
 		<release.args />
 	</properties>
 
